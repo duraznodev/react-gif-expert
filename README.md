@@ -1,3 +1,1 @@
-# GifExpertApp
-
-Este es mi repositorio del proyecto de GifExpertApp de React
+Small web app made with react putting into practice basic hooks and custom hooks
